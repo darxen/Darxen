@@ -1,0 +1,6 @@
+[submodule "src/android"]
+	path = src/android
+	url = git@github.com:Darxen/Android.git
+[submodule "src/darxen-tablet/gltk"]
+	path = src/darxen-tablet/gltk
+	url = git@github.com:Darxen/Gltk.git
